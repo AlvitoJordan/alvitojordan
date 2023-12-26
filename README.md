@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alvito Jordan</h1>
 <h3 align="center">Final-year Informatics Engineering student at Mikroskil University with a passion for Web Developer, Mobile Developer and DevOps Engineer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alvitojordan&label=Profile%20views&color=0e75b6&style=flat" alt="alvitojordan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvitojordan" alt="alvitojordan" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning : **React & React Native**
 
 - 💬 Ask me about : **React, React Native**
@@ -17,10 +11,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alvitojordan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvitojordan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alvito-jordan-7433a8278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvito-jordan-7433a8278" height="30" width="40" /></a>
 <a href="https://kaggle.com/alvitojordan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alvitojordan" height="30" width="40" /></a>
+<a href="https://fb.com/alvitojordan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alvitojordan" height="30" width="40" /></a>
 <a href="https://instagram.com/alvitojordan79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alvitojordan79" height="30" width="40" /></a>
 <a href="https://dribbble.com/alvitojordan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="alvitojordan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/alvito jordan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alvito jordan" height="30" width="40" /></a>
+<a href="https://discord.gg/alvito.j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alvito.j" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
