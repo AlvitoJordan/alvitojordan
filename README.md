@@ -31,6 +31,4 @@
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvitojordan&show_icons=true&locale=en&layout=compact" alt="alvitojordan" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alvitojordan&show_icons=true&locale=en" alt="alvitojordan" /></p>
-
-<br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alvitojordan&" alt="alvitojordan" /></p>
