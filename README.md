@@ -9,7 +9,7 @@
 
 - 💬 Ask me about : **React, React Native**
 
-- 📫 How to reach me : **alvitojordan@gmail.com**
+- 📫 How to reach me : **alvitojordan12@gmail.com**
 
 - ⚡ Fun fact : **I think I am funny**
 
