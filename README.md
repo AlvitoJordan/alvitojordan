@@ -1,4 +1,5 @@
 ### Hi there 👋
+### Final-year Informatics Engineering student at Mikroskil University with a passion for Web Developer, Mobile Developer and DevOps Engineer
 
 <!--
 **AlvitoJordan/alvitojordan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
