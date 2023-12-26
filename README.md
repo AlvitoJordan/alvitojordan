@@ -4,7 +4,7 @@
 <h3 align="center">Final-year Informatics Engineering student at Mikroskil University with a passion for Web Developer, Mobile Developer and DevOps Engineer.</h3>
 
 <img align="right" alt="coding" width="350" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
+<br />
 - 🌱 I’m currently learning : **React & React Native**
 
 - 💬 Ask me about : **React, React Native**
@@ -30,8 +30,6 @@
 
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvitojordan&show_icons=true&locale=en&layout=compact" alt="alvitojordan" /></p>
-
-<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alvitojordan&show_icons=true&locale=en" alt="alvitojordan" /></p>
 
 <br />
