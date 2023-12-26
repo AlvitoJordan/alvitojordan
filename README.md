@@ -2,6 +2,7 @@
 
 <h3 align="center">Final-year Informatics Engineering student at Mikroskil University with a passion for Web Developer, Mobile Developer and DevOps Engineer.</h3>
 
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 I’m currently learning : **React & React Native**
 
